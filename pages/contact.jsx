@@ -16,11 +16,11 @@ function Contact() {
 			    <div className="text-wrapper w-full">
 			      <h1 className="title">Contact</h1>
 			      <p className="description">
-			      	Incididunt in cillum magna occaecat nisi qui in exercitation labore anim adipisicing amet irure tempor.
+			      	Lets pretend, you wanna contact me!
 			      </p>
 			      <ul className="contact-links">
-			      	<li className="contact-item">Email: lutfhi@me.com</li>
-			      	<li className="contact-item">Phone: +6212344321007</li>
+			      	<li className="contact-item">Email: florian.georg.weismann@gmail.com</li>
+			      	<li className="contact-item">Phone: hmmmm... top secret</li>
 			      </ul>
 		      </div>
 	      </div>
