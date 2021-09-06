@@ -14,10 +14,10 @@ function Home() {
       <section className="hero">
         <div className="container">
           <div className="text-wrapper">
-            <h1 className="title">Halo, saya Lutfhi Ramadhan</h1>
-            <p className="description">Saya seorang pekerja lepas pengembang web, fotograper, desainer antarmuka pengguna, dan penulis.</p>
+            <h1 className="title">Me, Florian</h1>
+            <p className="description">21 years old, from Austria and becoming a developer. </p>
 
-            <Link href="/contact"><a className="cta">Kontak Saya</a></Link>
+            <Link href="/contact"><a className="cta">Text me :3</a></Link>
           </div>
 
           <div className="image-wrapper">
