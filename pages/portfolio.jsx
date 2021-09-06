@@ -21,16 +21,16 @@ function Portfolio() {
 
 			      <div className="portfolio-wrapper">
 			      	<div className="portfolio-item">
-			      		<img src="/chitchat.png" className="portfolio-image" />
+			      		<img src="/car.png" className="portfolio-image" />
 
-			      		<h4 className="portfolio-name">Chat App Exploration</h4>
-			      		<div className="portfolio-category">Mobile Dev</div>
+			      		<h4 className="portfolio-name">My Car</h4>
+			      		<div className="portfolio-category">Audi A3 Coupé 2.0 TSI 150 HP</div>
 			      	</div>
 			      	<div className="portfolio-item">
-			      		<img src="/kajian.jpg" className="portfolio-image" />
+			      		<img src="/country.jpg" className="portfolio-image" />
 
-			      		<h4 className="portfolio-name">kajian App</h4>
-			      		<div className="portfolio-category">Mobile Dev</div>
+			      		<h4 className="portfolio-name">Austria</h4>
+			      		<div className="portfolio-category">It's where this boy comes from!</div>
 			      	</div>
 			      </div>
 		      </div>
